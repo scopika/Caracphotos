@@ -76,8 +76,8 @@ Les images de la caracdisp n°4 sur le produit courant
     #2_IMAGE <= hauteur=150px max.
 </THELIA_IMG>
 
-La première image d'une valeur de la déclinaison n°5 sur le produit courant (avec redimensionnement en 200px de large)
-<THELIA_IMG type="CARACPHOTOS" declinaison="5" produit="#PRODUIT_ID" largeur="200" num="1">
+La première image d'une valeur de la caracdisp n°5 sur le produit courant (avec redimensionnement en 200px de large)
+<THELIA_IMG type="CARACPHOTOS" caracdisp="5" produit="#PRODUIT_ID" largeur="200" num="1">
     #IMAGE
 </THELIA_IMG>
 
